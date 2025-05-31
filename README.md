@@ -1,26 +1,91 @@
-# Prateekcanandwill
-<h1 align="center">Hi 👋, I'm Prateek Kumar</h1>
-<h3 align="center">A passionate student from India</h3>
+## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekcanandwill&label=Profile%20views&color=0e75b6&style=flat" alt="prateekcanandwill" /> </p>
+```python
+from life import Creativity
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateekcanandwill" alt="prateekcanandwill" /></a> </p>
+class Life(Creativity):
+    def __init_life__(self):
+        self.education = "Graduate Student at Amity University Kolkata"
+        self.current_job_title = "Student"
+        self.current_company = "WhenIWork"
+        self.user = self.getUser() || None
+        self.visitedUser = User
+        
+    #... 19 lines hidden 
 
-- 📫 How to reach me **kumarprateek1866@gmail.com**
+    def current_projects(self) -> None:
+        self.currently_learning = "Robotics & TinyML"
+        self.currently_working_on = "Portfolio website"
+        self.excited_for = "AI's application in Hardware and Robotics"
+    
+    def contact_me(self) -> str:
+        self.email = "kumarprateek1866@gmail.com"
+        self.linkedin = "https://linkedin.com/in/prateekkumarcse"
+        print(f" Drop me a line: {email}")
+        
+    def follow_me() -> None:
+        if self.user not in this.visitedUser.getWhoTheyFollowing():
+            print("Looks like you are not following {name} 😐".format(this.user.getUserName()))
+        else:
+            print("You are awesome 😎 ")
+if '__repo__' == '__helpful__':
+    follow.me()
+    star.it()
+    fork.it()
 
-- 📄 Know about my experiences [https://prateekcs.great-site.net/](https://prateekcs.great-site.net/)
+```
+<h2 align="left">Hi 👋! My name is Prateek and I'm a Student, from Kolkata, India</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wan_prateekx56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wan_prateekx56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prateek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateekkumarcse" height="30" width="40" /></a>
-<a href="https://fb.com/prateek kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prateek kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/wan_prateekx56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wan_prateekx56" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prateekcandwill&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prateekcandwill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateekcanandwill&show_icons=true&locale=en&layout=compact" alt="prateekcanandwill" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateekcanandwill&show_icons=true&locale=en" alt="prateekcanandwill" /></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/wan_prateekx56/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="discordapp.com/users/ultimatelegend_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="kumarprateek1866@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/prateekkumarcse" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Prateekcandwill/count.svg?"  />
+</div>
+
+###
