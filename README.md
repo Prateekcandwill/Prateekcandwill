@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋! My name is Prateek and I'm a Student, from Kolkata, India
 
 ```python
 from life import Creativity
@@ -34,9 +34,6 @@ if '__repo__' == '__helpful__':
     fork.it()
 
 ```
-<h2 align="left">Hi 👋! My name is Prateek and I'm a Student, from Kolkata, India</h2>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/wan_prateekx56/" target="_blank">
