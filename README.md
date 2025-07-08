@@ -52,8 +52,3 @@ if '__repo__' == '__helpful__':
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Prateekcandwill/count.svg?"/>
-</div>
-
-###
